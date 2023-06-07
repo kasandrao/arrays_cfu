@@ -16,3 +16,5 @@ console.log(dollars);
 
 rentPaid.unshift(false);
 console.log(rentPaid);
+
+//The index position refers to the first element in an array (ie. Bonnie, true, 45). It is the zeroeth position in an array.
